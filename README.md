@@ -1,4 +1,4 @@
-# policy
+# Policy
 Four-in-a-row policy
 
 I do not store any personal information. All your progress is saved locally on your phones and is not used or broadcast.
