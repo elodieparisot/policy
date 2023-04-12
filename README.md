@@ -17,7 +17,7 @@ There is no ad in my app.
 This application is not intended for children. In the event that a child uses my application, I do not store any information about them. Children are under the responsibility of their guardian or parents. My game contains no violence, no degrading words, and no content that would not be suitable for children in the event that it uses my application.
 
 # Contact Me
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at romainimberti@gmail.com. 
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at elodrawyt@gmail.com. 
 The full Google privacy policy is available here: https://policies.google.com/privacy?hl=en
 
 
